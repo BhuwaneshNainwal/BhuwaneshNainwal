@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Problem Solving skills.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: harshitnainwal38@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Code for fun
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
