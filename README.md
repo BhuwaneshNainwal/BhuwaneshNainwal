@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there , I'm Bhuwanesh Nainwal👋
+
+#### I am Competitive Programmer , Android Developer and Python Developer. 
 
 <!--
 **BhuwaneshNainwal/BhuwaneshNainwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
