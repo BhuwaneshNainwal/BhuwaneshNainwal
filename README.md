@@ -17,7 +17,7 @@
 [![@bhuwanesh's Holopin board](https://holopin.me/bhuwanesh)](https://holopin.io/@bhuwanesh)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwaneshNainwal&theme=tokyonight&layout=compact" alt="Top Langs" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwaneshNainwal&theme=tokyonight&layout=compact" alt="Top Langs" width="70%">
 </p>
 
 
