@@ -4,8 +4,8 @@
 
 
 #### About me:
-- 🔭 I’m currently working on [Jeevan](https://github.com/WhitePegasis/Jeevan01) Android App.
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working with Niqo Robotics as a full stack developer.
+- 🌱 I’m currently learning flutter.
 - 📫 How to reach me: harshitnainwal38@gmail.com
 - ⚡ Fun fact: Code for fun
 
